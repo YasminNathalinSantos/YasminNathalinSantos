@@ -1,8 +1,8 @@
 # Olá! sou a Yasmin Nathalin
 
 <div>
-   <img alt="GitHub Stats" height="200" style="padding-right: 10px; display: block; margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=YasminNathalinSantos&show_icons=true&theme=dracula"/>
-   <img alt="GitHub Stats" height="200" style="display: block; margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminNathalinSantos&layout=compact&theme=dracula"/>
+   <img alt="GitHub Stats" height="100" style="padding-right: 10px; display: block; margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=YasminNathalinSantos&show_icons=true&theme=dracula"/>
+   <img alt="GitHub Stats" height="100" style="display: block; margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminNathalinSantos&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: flex; flex-direction: column; width: 100%; align-items: center;">
